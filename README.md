@@ -29,5 +29,6 @@ run DynamoDB server
 <li>Express App</li>
 </ul>
 </li>
-
 </ul>
+
+<p> <b>N.B</b> need to config first to execute all the program independently first </p>
